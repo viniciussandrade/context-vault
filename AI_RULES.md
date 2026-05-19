@@ -6,13 +6,18 @@ These rules keep AI work precise, safe, and within scope.
 
 ## Core Rules
 
+Do:
+
 - Read the relevant files before editing.
 - Make small, focused changes.
-- Do not modify unrelated files.
-- Do not add dependencies unless clearly necessary.
-- Do not rewrite working code without a strong reason.
 - Preserve existing architecture and patterns.
-- Ask for clarification only when the task is ambiguous.
+- Ask for clarification only when the task is ambiguous or risky.
+
+Don't:
+
+- Modify unrelated files.
+- Add dependencies unless clearly necessary.
+- Rewrite working code without a strong reason.
 
 ## Before Coding
 
@@ -46,3 +51,7 @@ Summarize:
 ## Dependency Rule
 
 Before adding a dependency, explain why it is needed, alternatives, and tradeoffs. If the benefit is small, do not add it.
+
+## Final Rule
+
+Make the smallest correct change that solves the task.

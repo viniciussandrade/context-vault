@@ -4,7 +4,7 @@
 
 Phase: [Prototype / MVP / Refactor / Production / Experiment]
 
-[2-4 lines. What must be proven or delivered in this phase.]
+[1-3 lines. What must be proven or delivered in this phase.]
 
 ## Main Goal
 
@@ -31,4 +31,4 @@ Before implementing a task, check:
 3. Is it small enough to deliver safely?
 4. Does it avoid unnecessary complexity?
 
-If any answer is no, pause and ask.
+If any answer is no, pause and explain the concern before implementing.

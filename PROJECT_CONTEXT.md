@@ -13,7 +13,6 @@ If a change does not support this goal, question it before implementation.
 ## Target User
 
 - Primary user: [Who uses this project day-to-day?]
-- Secondary user: [Optional]
 - Core needs: [Need 1], [Need 2], [Need 3]
 
 ## Non-Goals
@@ -21,11 +20,6 @@ If a change does not support this goal, question it before implementation.
 - [Thing this project should not become]
 - [Thing this project should not become]
 - [Thing this project should not become]
-
-## Current Phase
-
-Phase: [Prototype / MVP / Refactor / Production / Experiment]
-Focus now: [Focus 1], [Focus 2], [Focus 3]
 
 ## Tech Stack
 
@@ -54,3 +48,4 @@ Do not introduce new technologies unless necessary and justified.
 
 ```txt
 [Brief folder structure or key modules. Keep it short.]
+```
